@@ -1,0 +1,1 @@
+//Fatal Error [1]: Uncaught TypeError: strpos(): Argument #1 ($haystack) must be of type string, bool given in /home/nlphuset/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands.php:175 in /home/nlphuset/public_html/wp-content/plugins/woocommerce/includes/class-wc-brands.php on line 175
